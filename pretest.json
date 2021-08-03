@@ -1,0 +1,46 @@
+[{
+		"question": "In a single contour line, at any point the elevation is ____",
+		"answers": {
+			"a": "Constantly Increases",
+			"b": "Constantly Decreases",
+			"c": "Same",
+			"d": "None of the above"
+		},
+		"correctAnswer": "c"
+	}, {
+		"question": "Which of the following is false?",
+		"answers": {
+			"a": "No two lines meet on intersect each other in any case",
+			"b": "If the contour lines are at very large distance to each other, this indicates a gentle slope",
+			"c": "If the closed lines have higher elevation in the center then it represents the hill or mountain",
+			"d": "None of the above"
+		},
+		"correctAnswer": "d"
+	}, {
+		"question": "Which of the following statement is/are true regarding the following contour map<br><img src=\"./images/borehole.png\" height='150' width='300'/>",
+		"answers": {
+			"a": "Each of the rock beds are inclined with horizontal at angle of 32.15&deg;",
+			"b": "Each of the rock beds are parallel to horizontal surface i.e Angle of Dip =0&deg;",
+			"c": "Thickness of Shale bed rock is less than 100 m at each and every point of the contour map",
+			"d": "None of the above"
+		},
+		"correctAnswer": "b"
+	}, {
+		"question": "What is the possible index of the point “X” shown in the contour map below?",
+		"answers": {
+			"a": "1150",
+			"b": "1250",
+			"c": "1350",
+			"d": "1450"
+		},
+		"correctAnswer": "b"
+	}, {
+		"question": "An isogon is a contour line for a variable which measures ___",
+		"answers": {
+			"a": "Distance",
+			"b": "Elevation",
+			"c": "Direction",
+			"d": "None of the Above"
+		},
+		"correctAnswer": "c"
+}]

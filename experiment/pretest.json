@@ -7,8 +7,7 @@
 			"d": "None of the above"
 		},
 		"correctAnswer": "c"
-	},
-	{
+	}, {
 		"question": "Which of the following is false?",
 		"answers": {
 			"a": "No two lines meet on intersect each other in any case",
@@ -17,8 +16,7 @@
 			"d": "None of the above"
 		},
 		"correctAnswer": "d"
-	},
-	{
+	}, {
 		"question": "Which of the following statement is/are true regarding the following contour map<br><img src=\"./images/borehole.png\" height='150' width='300'/>",
 		"answers": {
 			"a": "Each of the rock beds are inclined with horizontal at angle of 32.15&deg;",
@@ -27,8 +25,7 @@
 			"d": "None of the above"
 		},
 		"correctAnswer": "b"
-	},
-	{
+	}, {
 		"question": "What is the possible index of the point “X” shown in the contour map below?",
 		"answers": {
 			"a": "1150",
@@ -37,8 +34,7 @@
 			"d": "1450"
 		},
 		"correctAnswer": "b"
-	},
-	{
+	}, {
 		"question": "An isogon is a contour line for a variable which measures ___",
 		"answers": {
 			"a": "Distance",

@@ -16,10 +16,10 @@ Q 3. Contour map is given below based on it answer the following questions with 
 Scale: 1cm=100m<br>
 Given That: AD=1.80cm, AB=1.15m, BD=0.6cm, DC=0.5cm, CE=1m<br>
 What is the angle of dip (in degree) of Shale bed?<br>
-<b>a. 45</b><br>
+a. 45<br>
 b. 54<br>
 c. 60<br>
-d. 30<br><br>
+<b>d. 30</b><br><br>
 
 Q 4. Which of the following is true regarding the shape of contour lines<br>
 a. They are rectangular in shape<br>

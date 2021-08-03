@@ -6,15 +6,15 @@
 
 <ul style="text-indent:25px;text-align:justify;list-style-position:inside">
 <li>Down hole heat exchangers</li>
-<li>Groundwater wells</li>
+<li>Groundwater wells</li> 
 <li>Production wells for hydrocarbons, natural gas or petroleum</li>
 <li>Pumping of grout for example, concrete for drilled piles</li>
 </ul>
 
-<p style="text-indent:50px;text-align:justify">The underground Information is obtained from:</p>
+<p style="text-indent:50px;text-align:justify">The underground water</p>
 
 <ol style="text-indent:25px;text-align:justify;list-style-position:inside;list-style-type:lower-alpha">
-<li>drill core</li>
+<li></li>
 <li>the cuttings</li>
 <li>the drilling advance rate</li>
 <li> measurements in the borehole</li>
